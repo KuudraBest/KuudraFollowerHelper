@@ -1,4 +1,4 @@
-# **SkyBlock Wikipedia Page**: 
+# **SkyBlock Wikipedia Search Bar**: 
 Introducing "SBWiki," a captivating Java mod designed to enhance the Kuudra quest experience in Hypixel Skyblock. . This mod seamlessly integrates a challenging yet rewarding puzzle-solving mechanism, adding an extra layer of ihelp to the quest.
 
 This Mod Is An Open Source Code Mod
