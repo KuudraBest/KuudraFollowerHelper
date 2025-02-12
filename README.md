@@ -1,17 +1,17 @@
-**Kuudrafollowerquest:**
-Introducing "Kuudrafollowerquest," a captivating Java mod designed to enhance the Kuudra quest experience in Hypixel Skyblock. . This mod seamlessly integrates a challenging yet rewarding puzzle-solving mechanism, adding an extra layer of ihelp to the quest.
+**𝐊𝐮𝐮𝐝𝐫𝐚𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐪𝐮𝐞𝐬𝐭**:
+𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 "𝐊𝐮𝐮𝐝𝐫𝐚𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐪𝐮𝐞𝐬𝐭," 𝐚 𝐜𝐚𝐩𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐦𝐨𝐝 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐞𝐧𝐡𝐚𝐧𝐜𝐞 𝐭𝐡𝐞 𝐊𝐮𝐮𝐝𝐫𝐚 𝐪𝐮𝐞𝐬𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐇𝐲𝐩𝐢𝐱𝐞𝐥 𝐒𝐤𝐲𝐛𝐥𝐨𝐜𝐤. . 𝐓𝐡𝐢𝐬 𝐦𝐨𝐝 𝐬𝐞𝐚𝐦𝐥𝐞𝐬𝐬𝐥𝐲 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐬 𝐚 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐢𝐧𝐠 𝐲𝐞𝐭 𝐫𝐞𝐰𝐚𝐫𝐝𝐢𝐧𝐠 𝐩𝐮𝐳𝐳𝐥𝐞-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐦𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦, 𝐚𝐝𝐝𝐢𝐧𝐠 𝐚𝐧 𝐞𝐱𝐭𝐫𝐚 𝐥𝐚𝐲𝐞𝐫 𝐨𝐟 𝐢𝐡𝐞𝐥𝐩 𝐭𝐨 𝐭𝐡𝐞 𝐪𝐮𝐞𝐬𝐭.
 
-This Mod Is An Open Source Code Mod
+𝐓𝐡𝐢𝐬 𝐌𝐨𝐝 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐌𝐨𝐝
 
-KuudraHelper helps with kuudras quest and it shows all the locations of the npcs in crimson isle & Spider's Den as well as the FINAL QUEST puzzle
+𝐊𝐮𝐮𝐝𝐫𝐚𝐇𝐞𝐥𝐩𝐞𝐫 𝐡𝐞𝐥𝐩𝐬 𝐰𝐢𝐭𝐡 𝐤𝐮𝐮𝐝𝐫𝐚𝐬 𝐪𝐮𝐞𝐬𝐭 𝐚𝐧𝐝 𝐢𝐭 𝐬𝐡𝐨𝐰𝐬 𝐚𝐥𝐥 𝐭𝐡𝐞 𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐧𝐩𝐜𝐬 𝐢𝐧 𝐜𝐫𝐢𝐦𝐬𝐨𝐧 𝐢𝐬𝐥𝐞 & 𝐒𝐩𝐢𝐝𝐞𝐫'𝐬 𝐃𝐞𝐧 𝐚𝐬 𝐰𝐞𝐥𝐥 𝐚𝐬 𝐭𝐡𝐞 𝐅𝐈𝐍𝐀𝐋 𝐐𝐔𝐄𝐒𝐓 𝐩𝐮𝐳𝐳𝐥𝐞
 
-PLEASE NOTE: This is a forge mod. Not a spigot plugin. Use the forge mod loader to use this mod for yourself. (clients such as skyclient, featherclient and minecraft launcher can now also be used)
+𝐏𝐋𝐄𝐀𝐒𝐄 𝐍𝐎𝐓𝐄: 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐟𝐨𝐫𝐠𝐞 𝐦𝐨𝐝. 𝐍𝐨𝐭 𝐚 𝐬𝐩𝐢𝐠𝐨𝐭 𝐩𝐥𝐮𝐠𝐢𝐧. 𝐔𝐬𝐞 𝐭𝐡𝐞 𝐟𝐨𝐫𝐠𝐞 𝐦𝐨𝐝 𝐥𝐨𝐚𝐝𝐞𝐫 𝐭𝐨 𝐮𝐬𝐞 𝐭𝐡𝐢𝐬 𝐦𝐨𝐝 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟. (𝐜𝐥𝐢𝐞𝐧𝐭𝐬 𝐬𝐮𝐜𝐡 𝐚𝐬 𝐬𝐤𝐲𝐜𝐥𝐢𝐞𝐧𝐭, 𝐟𝐞𝐚𝐭𝐡𝐞𝐫𝐜𝐥𝐢𝐞𝐧𝐭 𝐚𝐧𝐝 𝐦𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭 𝐥𝐚𝐮𝐧𝐜𝐡𝐞𝐫 𝐜𝐚𝐧 𝐧𝐨𝐰 𝐚𝐥𝐬𝐨 𝐛𝐞 𝐮𝐬𝐞𝐝)
 
-Download the jar file from the top of the page and place it into your minecraft installation's mod folder (usually %appdata%/.minecraft/mods) Start minecraft with forge and enjoy!
+𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐭𝐡𝐞 𝐣𝐚𝐫 𝐟𝐢𝐥𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐭𝐨𝐩 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐚𝐠𝐞 𝐚𝐧𝐝 𝐩𝐥𝐚𝐜𝐞 𝐢𝐭 𝐢𝐧𝐭𝐨 𝐲𝐨𝐮𝐫 𝐦𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧'𝐬 𝐦𝐨𝐝 𝐟𝐨𝐥𝐝𝐞𝐫 (𝐮𝐬𝐮𝐚𝐥𝐥𝐲 %𝐚𝐩𝐩𝐝𝐚𝐭𝐚%/.𝐦𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭/𝐦𝐨𝐝𝐬) 𝐒𝐭𝐚𝐫𝐭 𝐦𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭 𝐰𝐢𝐭𝐡 𝐟𝐨𝐫𝐠𝐞 𝐚𝐧𝐝 𝐞𝐧𝐣𝐨𝐲!
 
-How to use You can configure the mod in the mods menu. Check your forge installaton on where to find the settings panel
+𝐇𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐭𝐡𝐞 𝐦𝐨𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐦𝐨𝐝𝐬 𝐦𝐞𝐧𝐮. 𝐂𝐡𝐞𝐜𝐤 𝐲𝐨𝐮𝐫 𝐟𝐨𝐫𝐠𝐞 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐨𝐧 𝐨𝐧 𝐰𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐭𝐡𝐞 𝐬𝐞𝐭𝐭𝐢𝐧𝐠𝐬 𝐩𝐚𝐧𝐞𝐥
 
-Commands /kf - Opens the mod menu with a guide on how to use the mod effectively
+𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 /𝐤𝐟 - 𝐎𝐩𝐞𝐧𝐬 𝐭𝐡𝐞 𝐦𝐨𝐝 𝐦𝐞𝐧𝐮 𝐰𝐢𝐭𝐡 𝐚 𝐠𝐮𝐢𝐝𝐞 𝐨𝐧 𝐡𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞 𝐭𝐡𝐞 𝐦𝐨𝐝 𝐞𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞𝐥𝐲
 
-**The mod should look like this image**
+**𝐓𝐡𝐞 𝐦𝐨𝐝 𝐬𝐡𝐨𝐮𝐥𝐝 𝐥𝐨𝐨𝐤 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬 𝐢𝐦𝐚𝐠𝐞**
 ![image](https://github.com/user-attachments/assets/12ef3eaf-100b-4c34-8826-9a493cd5d80e)
