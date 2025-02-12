@@ -14,3 +14,4 @@ How to use You can configure the mod in the mods menu. Check your forge installa
 Note: SBWiki uses NEU's search bar then with a right-click on any item it opens The Hypixel Wikipedia page 
 
 
+![image](https://github.com/user-attachments/assets/4b90642b-295b-4a86-97c8-9b2710e91b14)
