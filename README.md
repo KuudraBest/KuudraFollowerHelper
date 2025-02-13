@@ -20,7 +20,7 @@ The mod includes a helpful tool called KudraHelper, which assists you in underst
 
 When you reach the final puzzle in the Kudra quest, this mod highlights a key waypoint which is a 1x1 block anywhere on the crimson isle island, making the process of completing the puzzle much more manageable and rewarding, it also saves you up to 6 hours of non stop left clicking!!
 
-By streamlining quest progression and offering in-depth assistance, Kudrafollowequest helps you stay focused and reach your ultimate goal of obtaining the Kudra Follower Artifact faster and more efficiently.
+By streamlining quest progression and offering in-depth assistance, Kudrafollowequest helps you stay focused and reach your ultimate goal of obtaining the Kuudra Follower Artifact faster and more efficiently.
 
 # Installation Instructions:
 
